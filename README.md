@@ -7,8 +7,8 @@ This is a simple work day calendar application that allows a user to save events
 3. Use a text editor to view all coding, Visual Studio Coding is recommended.
 
 ## Websites
-* Github:
-* Deployed
+* Github: https://github.com/VicLawal27/work-day-scheduler
+* Deployed: https://viclawal27.github.io/work-day-scheduler/
 
 ## Functionality
 * When the planner is openned, the current day is displayed at the top of the calendar
@@ -29,3 +29,4 @@ This is a simple work day calendar application that allows a user to save events
 * Moment.js
 
 ## Demo
+![Day Planner Demo](./assets/Images/Demo.gif)
