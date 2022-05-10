@@ -14,9 +14,9 @@ This is a simple work day calendar application that allows a user to save events
 * When the planner is openned, the current day is displayed at the top of the calendar
 * When scrolled down, the user is presented with time blocks for standard business hours (from 9AM to 5PM)
 * When the user views the time blocks for that day, each time block is color-coded to indicate whether it is in the past, present, or future
-  * ![#F2EDDC](https://via.placeholder.com/15/F2EDDC/000000?text=+) `Past` 
-  * ![#D96A29](https://via.placeholder.com/15/D96A29/000000?text=+) `Present`
-  * ![#69AFBF](https://via.placeholder.com/15/1589F0/000000?text=+) `Future` 
+  * ![#d3d3d3](https://via.placeholder.com/15/d3d3d3/000000?text=+) `Past` 
+  * ![#ff6961](https://via.placeholder.com/15/ff6961/000000?text=+) `Present`
+  * ![#77dd77](https://via.placeholder.com/15/77dd77/000000?text=+) `Future` 
 * Then the user can click into a time block and enter an event
 * When clicked on the save button on the right for that time block, then the text for that event is saved in local storage
 * When the page is refreshed, the saved events persist
